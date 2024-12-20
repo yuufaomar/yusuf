@@ -90,6 +90,15 @@ h2{
     width: 100%;
 }
 
+.hub img{
+    width: 280px;
+    margin-top: 20px;
+    margin-left: 480px;
+    border-radius: 8px;
+    border-top: 30px solid rgb(255, 0, 0);
+  
+}
+
 
 
 
